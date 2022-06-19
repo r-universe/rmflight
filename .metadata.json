@@ -1,0 +1,9 @@
+[
+  {
+    "package": "knitrProgressBar",
+    "oncran": true
+  },
+  {
+    "package": "categoryCompare"
+  }
+]

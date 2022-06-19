@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "knitrProgressBar"]
+	path = knitrProgressBar
+	url = https://github.com/rmflight/knitrprogressbar
+	shallow = true
+	registered = true
+[submodule "categoryCompare"]
+	path = categoryCompare
+	url = https://github.com/rmflight/categorycompare
+	shallow = true
+	registered = true
