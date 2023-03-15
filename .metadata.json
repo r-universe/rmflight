@@ -1,9 +1,9 @@
 [
   {
-    "package": "knitrProgressBar",
-    "oncran": true
+    "package": "categoryCompare"
   },
   {
-    "package": "categoryCompare"
+    "package": "knitrProgressBar",
+    "oncran": true
   }
 ]
